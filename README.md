@@ -2,10 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  I am currently working for the <strong>SITE-23 Project</strong> as well as on the Fivem RVL Base.<br>
-  I've been working in development for two years now and I'm now passionate about it and I'm not sure I want to make it my job. :)
-</p>
+* 📖 I am currently working for the <strong>SITE-23 Project</strong> as well as on the Fivem RVL Base.<br>
+I've been working in development for two years now and I'm now passionate about it and I'm not sure I want to make it my job. :)
+
+* 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
 
 ### 🚀 Languages
 
