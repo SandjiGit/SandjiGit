@@ -5,7 +5,7 @@
 * 📖 I am currently working for the <strong>SITE-23 Project</strong> as well as on the Fivem RVL Base.<br>
 I've been working in development for two years now and I'm now passionate about it and I'm not sure I want to make it my job. :)
 
-* 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
+* 💡 Always open to collaborating on projects and innovative/disruptive ideas.
 
 ---
 
@@ -41,3 +41,5 @@ I've been working in development for two years now and I'm now passionate about 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SandjiGit&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SandjiGit&hide_border=true&theme=radical" />
 </p>
+
+https://github.com/Asmit2952/Asmit2952/blob/master/src/wave.gif
