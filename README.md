@@ -7,6 +7,8 @@ I've been working in development for two years now and I'm now passionate about 
 
 * 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
 
+---
+
 ### 🚀 Languages
 
 ![Lua](https://img.shields.io/badge/Lua-ED8B00?style=for-the-badge&logo=lua&logoColor=white)
@@ -30,6 +32,8 @@ I've been working in development for two years now and I'm now passionate about 
 ### 💻 Workspace
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
 
 ## 📈 Stats
 
