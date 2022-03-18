@@ -3,20 +3,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  I am currently working for the <strong>SITE-23 Project</strong>as well as on the Fivem RVL Base.<br>
+  I am currently working for the <strong>SITE-23 Project</strong> as well as on the Fivem RVL Base.<br>
   I've been working in development for two years now and I'm now passionate about it and I'm not sure I want to make it my job. :)
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+ 💻 Languages: <strong>Lua (on Fivem), HTML, CSS and Skript for Minecraft</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 My projects: <strong>SITE-23 Roleplay Minecraft SCP Server. RVL Base on Fivem.</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 You can contact me or find me on: ⤵️
 </p>
 
 <p align="left">
