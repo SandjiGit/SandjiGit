@@ -1,11 +1,1 @@
-# It's Me! 💻
-Hey me it's Gabriel better known under the pseudonym of Sandji. I develop on Fivem, Minecraft and I touch a bit the Web.
-
-I'm still an apprentice in my development tasks. 
-
-My Projects :
-
-SLife Roleplay : A French GTA V Roleplay Server on Fivem based on the US, I'm developing my server since almost one month.
-My goal : Originality ! 
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0E53F7&background=FFFFFF00&lines=Hi%2C+I'm+Sandji!+Apprentice+Developer.;I+work+in+Lua%2C+HTML%2C+CSS+and+Skript)](https://git.io/typing-svg)
