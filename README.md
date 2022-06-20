@@ -16,8 +16,7 @@ Student Developer
 <a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="Tailwind CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"/> </a>
 <a href="https://www.php.net/" target="_blank"> <img align="left" alt="PHP" width="26px" src="https://www.carpemedia.fr/wp-content/uploads/2017/02/formation-php-initiation.png"/> </a>
 <a href="" target="_blank"> <img align="left" alt="Skript" width="26px" src="https://skripthub.net/static/img/ogLogo.png"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<a href="https://github.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/> </a>
 <br />
 <br />
 ### Softwares:
