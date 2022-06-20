@@ -1,8 +1,6 @@
 ## Heyyo, I'm <a href="https://github.com/SandjiGit" target="_blank">Sandji </a>!
 Student Developer
 
-<br />
-
 ### 📕 My current projects
 
 <!-- BLOG-POST-LIST:START -->
