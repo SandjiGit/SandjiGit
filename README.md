@@ -4,8 +4,8 @@ Student Developer
 ### 📕 My current projects
 
 <!-- BLOG-POST-LIST:START -->
-- [A SCP Roleplay Server on Minecraft](https://discord.gg/site23------2)
-- [A WW2 game on the famous Roblox platform](https://www.roblox.com/games/9917835123/IN-DEV-Shows-Battle------2)
+- [A SCP Roleplay Server on Minecraft](https://discord.gg/site23)
+- [A WW2 game on the famous Roblox platform](https://www.roblox.com/games/9917835123/IN-DEV-Shows-Battle)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools:
