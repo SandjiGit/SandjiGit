@@ -4,8 +4,8 @@ Student Developer
 ### 📕 My current projects
 
 <!-- BLOG-POST-LIST:START -->
-- [A SCP Roleplay Server on Minecraft](https://aakarshbiju.medium.com/a-dot-cost-me-6-000-rupees-3f519595f86f?source=rss-f82fcec8502a------2)
-- [A WW2 game on the famous Roblox platform](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
+- [A SCP Roleplay Server on Minecraft](https://discord.gg/site23------2)
+- [A WW2 game on the famous Roblox platform](https://www.roblox.com/games/9917835123/IN-DEV-Shows-Battle------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools:
