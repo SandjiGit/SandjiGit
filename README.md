@@ -8,8 +8,6 @@ Student Developer
 - [A WW2 game on the famous Roblox platform](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
-
 ### Languages and Tools:
 
 
@@ -25,8 +23,8 @@ Student Developer
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
+<a href="https://www.jetbrains.com/fr-fr/webstorm/" target="_blank"> <img align="left" alt="XD" width="26px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png"/> </a> 
+<a href="https://www.blockbench.net/" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Blockbench_icon.png"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
 
