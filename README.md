@@ -2,10 +2,8 @@
 Student Developer
 
 <br />
-<br />
-<br />
 
-### 📕 Latest Blog Post
+### 📕 My current projects
 
 <!-- BLOG-POST-LIST:START -->
 - [A dot cost me 6,000 rupees!](https://aakarshbiju.medium.com/a-dot-cost-me-6-000-rupees-3f519595f86f?source=rss-f82fcec8502a------2)
@@ -50,4 +48,4 @@ Student Developer
 <br/>
 ---
 
-[![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Sandji's github stats](https://github-readme-stats.vercel.app/api?username=SandjiGit&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
