@@ -5,7 +5,6 @@ Student Developer
 
 <!-- BLOG-POST-LIST:START -->
 - [A SCP Roleplay Server on Minecraft](https://discord.gg/site23)
-- [A Roleplay Game Server on Minecraft]()
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools:
