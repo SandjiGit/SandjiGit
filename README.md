@@ -1,12 +1,6 @@
 ## Heyyo, I'm <a href="https://github.com/SandjiGit" target="_blank">Sandji </a>!
 Student Developer
 
-### 📕 My current projects
-
-<!-- BLOG-POST-LIST:START -->
-- [A SCP Roleplay Server on Minecraft](https://discord.gg/site23)
-<!-- BLOG-POST-LIST:END -->
-
 ### Languages and Tools:
 
 
