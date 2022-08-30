@@ -2,7 +2,6 @@
 Student Developer
 
 <br />
-<br />
 
 ---
 
