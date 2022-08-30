@@ -1,8 +1,6 @@
 ## Heyyo, I'm <a href="https://github.com/SandjiGit" target="_blank">Sandji </a>!
 Student Developer
 
-<br />
-
 ---
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/774641097699098624)](https://discord.com/users/774641097699098624)
