@@ -6,7 +6,7 @@
 
 ## 💻 **My Skillss**
 
-### 🧑‍💻 Lenguajes de Programación
+### 🧑‍💻 Code Languages
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
