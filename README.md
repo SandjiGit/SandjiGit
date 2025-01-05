@@ -1,4 +1,4 @@
-## 👋 Hey, I'm <a href="https://github.com/SandjiGit" target="_blank">Sandji </a>!
+## 👋 Hey, I'm <a href="https://github.com/SandjiGit" target="_blank">Sandji </a>! Java Developer
 
 ---
 
