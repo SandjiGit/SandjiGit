@@ -2,4 +2,4 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?SandjiGit=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SandjiGit)](https://git.io/streak-stats)
